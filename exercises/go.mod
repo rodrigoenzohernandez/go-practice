@@ -1,4 +1,5 @@
-module exercises
+module github.com/rodrigoenzohernandez/go-practice/exercises
+
 
 go 1.22.4
 
