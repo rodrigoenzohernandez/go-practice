@@ -17,3 +17,18 @@ go run hello-world.go
 ```shell
 go build hello-world.go
 ```
+
+# Useful functions
+
+## Check the type of a variable
+
+```go
+fmt.Println("Type:", reflect.TypeOf(n))
+```
+
+## Get the length of an array
+
+```go
+fmt.Println("Length:", len(arr))
+```
+
